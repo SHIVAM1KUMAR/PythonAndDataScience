@@ -1,3 +1,3 @@
 # PYTHON And Data Science Journey
- Its learning journey of python and DataScience.
- Start----->Python------>Library------>Sql----->Ml------>Math-------->Projects
+
+# Python → Data Analysis → ML → DL → NLP → Transformers → GenAI → RAG → FastAPI → LLM Evaluation → Agentic AI → MCP → Agentic AI Projects → LLMOps → Observability/Tracing → LLM Gateways → Guardrails & Security → Cloud (AWS/Azure/GCP) → FDE
